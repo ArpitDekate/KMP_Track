@@ -14,7 +14,9 @@ Problem Definition: Q6.A text file is given as input it is required to perform s
                       As pe the problem definition we were required to demonsotrate KMP working,search a user provided pattern in user-
                       choosen string,give time required to find pattern if present,number of occurances of the pattern and its Trace.
                       
-Technology Stack : 1.Netbeans 8.0.1(IDE)
+Technology Stack :
+
+                   1.Netbeans 8.0.1(IDE)
 
                    2.Java (for logical implementation)
 
