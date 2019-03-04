@@ -15,7 +15,9 @@ Problem Definition: Q6.A text file is given as input it is required to perform s
                       choosen string,give time required to find pattern if present,number of occurances of the pattern and its Trace.
                       
 Technology Stack : 1.Netbeans 8.0.1(IDE)
+
                    2.Java (for logical implementation)
+
                    3.Swings( for UI)
                    
 Function Definitions:File name-
