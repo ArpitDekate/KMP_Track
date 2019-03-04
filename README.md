@@ -22,11 +22,14 @@ Technology Stack :
 
                    3.Swings( for UI)
                    
-Function Definitions:File name-
+Function Definitions:
+
+                File name-
                     1. (src/ads_P/Trace.java)
                         
-                          a. public Trace(String s,String p): This is the constructor of the Trace.java class.This initializes the inputs 
-                             recieved from user (from first window),the string and the pattern.
+                          a. public Trace(String s,String p): 
+                             This is the constructor of the Trace.java class.This initializes the
+                             inputsrecieved from user (from first window),the string and the pattern.
 
                           b. int[] prefixtable(String pat, int M, int pival[])
                              This is used to find the prefix table for the given pattern to be searched.
